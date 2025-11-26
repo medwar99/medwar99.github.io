@@ -30,7 +30,7 @@ header_pages:
   - 1_about/about.md
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
